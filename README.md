@@ -1,4 +1,4 @@
-# ETL-pipeline-with-airflow-on-AWS-EC2.
+# ETL-pipeline-using-airflow-on-AWS-EC2.
 
 In this project, I developed a data pipeline to extract current weather data from the OpenWeatherMap API, with a specific focus on Lisbon's weather conditions. I refined the acquired data and stored it within an Amazon S3 repository, formatted in CSV. The entire process was orchestrated using Apache AirFlow.
 
